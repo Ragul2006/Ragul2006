@@ -1,6 +1,6 @@
 <!-- ⚡ GOKU-THEMED GITHUB PROFILE README BY RAGUL -->
 
-<h1 align="center">🔥 KAMEHAMEHA! I'm <span style="color:#FF6F00;">Ragul</span> 🐉</h1>
+<h1 align="center">🔥 I'm <span style="color:#FF6F00;">Ragul</span> 🐉</h1>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHliczZ0dnczeXI0NjFlZXFscWRubXRoa2ZzMGFkeTBnd2U1enUxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fD1QmD1w0RVV74psX/giphy.gif" width="250px" alt="Goku charging">
